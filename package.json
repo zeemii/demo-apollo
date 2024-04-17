@@ -1,0 +1,24 @@
+{
+  "name": "demo-apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zeemii/demo-apollo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeemii/demo-apollo/issues"
+  },
+  "homepage": "https://github.com/zeemii/demo-apollo#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.10.3",
+    "graphql": "^16.8.1"
+  }
+}
